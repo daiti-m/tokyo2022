@@ -4,4 +4,4 @@
 - data/ : 元データ (テキスト)
 - misc/ : その他
 
-質問等は持橋 daichi@ism.ac.jp までお寄せ下さい.
+質問等は持橋大地 daichi@ism.ac.jp までお寄せ下さい.
